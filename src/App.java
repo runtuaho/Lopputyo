@@ -144,7 +144,7 @@ class Application {
         System.out.println("------------------------------------------------------------------------------------");
         System.out.println("Käyttäjä asetukset");
         System.out.println("1. Vaihda sähköposti");
-        System.out.println("2. Vaihda salasana2");
+        System.out.println("2. Vaihda salasana");
         System.out.println("3. Palaa takaisin\n");
         System.out.print("Anna valintasi: \n");
         System.out.println("------------------------------------------------------------------------------------");
